@@ -1,0 +1,25 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+
+# Build directories
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# IDE files
+.vscode/
+.idea/
+*.sln
+*.vcxproj*
+*.suo
+*.user
+
+# OS files
+.DS_Store
+Thumbs.db
